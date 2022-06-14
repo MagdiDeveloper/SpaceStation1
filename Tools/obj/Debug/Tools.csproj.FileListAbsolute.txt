@@ -1,0 +1,8 @@
+D:\SpaceStation\Tools\bin\Debug\Tools.dll
+D:\SpaceStation\Tools\bin\Debug\Tools.pdb
+D:\SpaceStation\Tools\bin\Debug\Newtonsoft.Json.dll
+D:\SpaceStation\Tools\bin\Debug\Newtonsoft.Json.xml
+D:\SpaceStation\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\SpaceStation\Tools\obj\Debug\Tools.csproj.CopyComplete
+D:\SpaceStation\Tools\obj\Debug\Tools.dll
+D:\SpaceStation\Tools\obj\Debug\Tools.pdb

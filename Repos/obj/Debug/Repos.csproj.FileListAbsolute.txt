@@ -1,0 +1,13 @@
+D:\SpaceStation\Repos\bin\Debug\Repos.dll
+D:\SpaceStation\Repos\bin\Debug\Repos.pdb
+D:\SpaceStation\Repos\bin\Debug\Tools.dll
+D:\SpaceStation\Repos\bin\Debug\Newtonsoft.Json.dll
+D:\SpaceStation\Repos\bin\Debug\Tools.pdb
+D:\SpaceStation\Repos\bin\Debug\Newtonsoft.Json.xml
+D:\SpaceStation\Repos\obj\Debug\Repos.csproj.AssemblyReference.cache
+D:\SpaceStation\Repos\obj\Debug\Repos.csproj.CoreCompileInputs.cache
+D:\SpaceStation\Repos\obj\Debug\Repos.csproj.CopyComplete
+D:\SpaceStation\Repos\obj\Debug\Repos.dll
+D:\SpaceStation\Repos\obj\Debug\Repos.pdb
+D:\SpaceStation\Repos\bin\Debug\BE.dll
+D:\SpaceStation\Repos\bin\Debug\BE.pdb

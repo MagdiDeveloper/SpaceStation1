@@ -1,0 +1,9 @@
+D:\SpaceStation\BE\bin\Debug\BE.dll
+D:\SpaceStation\BE\bin\Debug\BE.pdb
+D:\SpaceStation\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\SpaceStation\BE\obj\Debug\BE.dll
+D:\SpaceStation\BE\obj\Debug\BE.pdb
+D:\SpaceStation\BE\bin\Debug\Newtonsoft.Json.dll
+D:\SpaceStation\BE\bin\Debug\Newtonsoft.Json.xml
+D:\SpaceStation\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\SpaceStation\BE\obj\Debug\BE.csproj.CopyComplete

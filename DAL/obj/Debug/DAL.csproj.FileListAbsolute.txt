@@ -1,0 +1,17 @@
+D:\SpaceStation\DAL\bin\Debug\DAL.dll
+D:\SpaceStation\DAL\bin\Debug\DAL.pdb
+D:\SpaceStation\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\SpaceStation\DAL\obj\Debug\DAL.dll
+D:\SpaceStation\DAL\obj\Debug\DAL.pdb
+D:\SpaceStation\DAL\bin\Debug\DAL.dll.config
+D:\SpaceStation\DAL\bin\Debug\EntityFramework.dll
+D:\SpaceStation\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\SpaceStation\DAL\bin\Debug\EntityFramework.xml
+D:\SpaceStation\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\SpaceStation\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\SpaceStation\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\SpaceStation\DAL\obj\Debug\DAL.Migrations.CreateDatabase.resources
+D:\SpaceStation\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\SpaceStation\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\SpaceStation\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\SpaceStation\DAL\obj\Debug\DAL.Migrations.fixDatabase.resources
